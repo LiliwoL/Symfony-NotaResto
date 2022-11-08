@@ -19,3 +19,8 @@
 /.idea/vcs.xml
 /.idea/modules.xml
 /.idea/misc.xml
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
